@@ -1,0 +1,12 @@
+bugs to fix:
+
+-	combine titles to one component
+	UPD: done with upper component
+-	make preloader for async fetch request 
+	UPD:	async problem solved using beforemounted life hook
+-	remove styles html5 of button
+	UPD: removed
+-	combine posts tarifs and types to one component using props
+	UPD: unneccesary
+-	refreshing pages problem
+	UPD: fixed
